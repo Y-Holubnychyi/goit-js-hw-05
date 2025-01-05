@@ -1,3 +1,3 @@
-# goit-js-hw-03
+# goit-js-hw-05
 
-the 4th JS hw
+the 5th JS hw Happy holidays! ;-)
